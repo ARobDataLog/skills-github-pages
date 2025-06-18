@@ -1,3 +1,3 @@
 ---
-title: Welcome to the THUNDERDOME!
+Thunderdome: Welcome to the THUNDERDOME!
 ---
